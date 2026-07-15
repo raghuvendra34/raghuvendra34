@@ -1,6 +1,6 @@
 <h1 align="center">Raghuvendra Kumar</h1>
 
-<h3 align="center">AI/ML Engineer | B.Tech AIML @ VIT Bhopal (2023–2027)</h3>
+<h3 align="center">AI/ML Engineer | B.Tech AIML </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/raghuvendra-kumar-76919128a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
