@@ -50,6 +50,7 @@
 
 | Project | Description | Tech |
 |---|---|---|
+| [OncoGuide AI](https://github.com/raghuvendra34/OncoGuide-AI) · [Live App](https://oncoguide-ai-fuwyaukyjwcpogxtdzeb6t.streamlit.app) | Multi-report RAG assistant that helps cancer patients understand pathology, MRI, CT, and blood reports through evidence-backed, cross-report Q&A | Gemini API, LangChain, FAISS, EasyOCR |
 | [Multi-Agent Research System](https://github.com/raghuvendra34/Multi-Agent-Research-System) | 4-agent AI pipeline (Search, Reader, Writer, Critic) automating end-to-end research report generation | LangGraph, Gemini 2.5 Flash, Tavily |
 | [AI Video Assistant](https://github.com/raghuvendra34/AI-Video-Assistant) | Transcribes and summarizes audio/video with multilingual RAG-based Q&A (English, Hindi, Hinglish) | Whisper, Sarvam AI, Mistral AI, ChromaDB |
 | [Plant Disease Prediction](https://github.com/raghuvendra34/Plant-Disease-Prediction) | CNN model trained on 54K+ images across 38 disease classes, 86%+ validation accuracy | TensorFlow, Keras, OpenCV |
